@@ -1,0 +1,80 @@
+[
+  {
+    "carImg": "../src/assets/cars-big/audi-box.png",
+    "carName": "Audi",
+    "Rent": "₹250",
+    "location": "Sector 63, Noida"
+  },
+  {
+    "carImg": "../src/assets/cars-big/bmw-box.png",
+    "carName": "BMW",
+    "Rent": "₹650",
+    "location": "Sector 1, Noida"
+  },
+  {
+    "carImg": "../src/assets/Jeep SUV.png",
+    "carName": "SUV",
+    "Rent": "₹450",
+    "location": "Sector 11, Noida"
+  },
+  {
+    "carImg": "../src/assets/cars-big/benz-box.png",
+    "carName": "Benz",
+    "Rent": "₹250",
+    "location": "Sector 12, Noida"
+  },
+  {
+    "carImg": "../src/assets/cars-big/audia1.jpg",
+    "carName": "Audia",
+    "Rent": "₹580",
+    "location": "Sector 45, Noida"
+  },
+  {
+    "carImg": "../src/assets/cars-big/carforbox.jpg",
+    "carName": "Carfor",
+    "Rent": "₹500",
+    "location": "Sector 48, Noida"
+  },
+  {
+    "carImg": "../src/assets/cars-big/passat-box.png",
+    "carName": "Passat",
+    "Rent": "₹350",
+    "location": "Sector 76, Noida"
+  },
+  {
+    "carImg": "../src/assets/cars (2).png",
+    "carName": "Thar Latest Model",
+    "Rent": "₹650",
+    "location": "Sector 56, Noida"
+  },
+  {
+    "carImg": "../src/assets/white-sport-sedan.png",
+    "carName": "White Sedan",
+    "Rent": "₹450",
+    "location": "Sector 1, Noida"
+  },
+  {
+    "carImg": "../src/assets/cars-big/golf6-box.png",
+    "carName": "Golf6",
+    "Rent": "₹400",
+    "location": "Sector 56, Noida"
+  },
+  {
+    "carImg": "../src/assets/Black SUV.png",
+    "carName": "Black SUV",
+    "Rent": "₹360",
+    "location": "Sector 72, Noida"
+  },
+  {
+    "carImg": "../src/assets/jeep.png",
+    "carName": "White SUV",
+    "Rent": "₹400",
+    "location": "Sector 56, Noida"
+  },
+  {
+    "carImg": "../src/assets/cars (3).png",
+    "carName": "BMW",
+    "Rent": "₹650",
+    "location": "Sector 1, Noida"
+  }
+]

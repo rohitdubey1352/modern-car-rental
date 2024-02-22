@@ -1,4 +1,4 @@
-import Logo from '../assets/Logo.svg'
+import Logo from "../assets/Logo.svg";
 
 const Navbar = () => {
   return (
@@ -32,22 +32,22 @@ const Navbar = () => {
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/about">
                     About
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/models">
                     Vehicle Models
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/testimonials">
                     Testimonials
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#">
+                  <a className="nav-link" href="/contact">
                     Contact Us
                   </a>
                 </li>

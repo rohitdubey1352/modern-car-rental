@@ -1,0 +1,29 @@
+[
+    {
+        "carImg": "../src/assets/cars (1).png",
+        "carName": "Orange SUV",
+        "Engine": "330 Hourse Power",
+        "Year": 2002,
+        "Seater": 4,
+        "Fuel": "Gasonline",
+        "Tyre": "CEAT Tyre"
+    },
+    {
+        "carImg": "../src/assets/white-sport-sedan.png",
+        "carName": "White Sedan",
+        "Engine": "550 Hourse Power",
+        "Year": 2010,
+        "Seater": 2,
+        "Fuel": "Gasonline",
+        "Tyre": "CEAT Tyre"
+    },
+    {
+        "carImg": "../src/assets/Black SUV.png",
+        "carName": "Black SUV",
+        "Engine": "410 Hourse Power",
+        "Year": 2007,
+        "Seater": 5,
+        "Fuel": "Petrol",
+        "Tyre": "Bridgestone Dueler D684 "
+    }
+]
