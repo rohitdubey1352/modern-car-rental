@@ -57,11 +57,8 @@ const Navbar = () => {
                 className="d-flex justify-content-center align-center"
                 role="search"
               >
-                <button className="btn sign" type="submit">
-                  Sign In
-                </button>
                 <button className="btn register" type="submit">
-                  Register
+                  User Name
                 </button>
               </form>
             </div>

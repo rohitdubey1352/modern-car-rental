@@ -63,7 +63,7 @@ const Carousel = () => {
               <div className="established">
                 <h1>{item.Year}</h1>
               </div>
-              <img src={item.carImg} className="d-block" alt="img" />
+              <img src={item.carImg} className="d-block" alt={item.carName} />
               <div className="container">
                 <div className="row">
                   <div className="col-6 col-lg-2 col-md-2">

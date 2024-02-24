@@ -1,79 +1,67 @@
 [
   {
-    "carImg": "../src/assets/cars-big/audi-box.png",
+    "carImg": "https://images.pexels.com/photos/244206/pexels-photo-244206.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "carName": "Audi",
     "Rent": "₹250",
     "location": "Sector 63, Noida"
   },
   {
-    "carImg": "../src/assets/cars-big/bmw-box.png",
-    "carName": "BMW",
+    "carImg": "https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "carName": "Range Rover",
     "Rent": "₹650",
     "location": "Sector 1, Noida"
   },
   {
-    "carImg": "../src/assets/Jeep SUV.png",
-    "carName": "SUV",
+    "carImg": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "carName": "Benz",
     "Rent": "₹450",
     "location": "Sector 11, Noida"
   },
   {
-    "carImg": "../src/assets/cars-big/benz-box.png",
-    "carName": "Benz",
+    "carImg": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "carName": "BMW",
     "Rent": "₹250",
     "location": "Sector 12, Noida"
   },
   {
-    "carImg": "../src/assets/cars-big/audia1.jpg",
-    "carName": "Audia",
+    "carImg": "https://images.pexels.com/photos/810357/pexels-photo-810357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "carName": "Blue Benz",
     "Rent": "₹580",
     "location": "Sector 45, Noida"
   },
   {
-    "carImg": "../src/assets/cars-big/carforbox.jpg",
+    "carImg": "https://images.pexels.com/photos/3311574/pexels-photo-3311574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "carName": "Carfor",
     "Rent": "₹500",
     "location": "Sector 48, Noida"
   },
   {
-    "carImg": "../src/assets/cars-big/passat-box.png",
-    "carName": "Passat",
+    "carImg": "https://images.pexels.com/photos/1335077/pexels-photo-1335077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "carName": "Red Benz",
     "Rent": "₹350",
     "location": "Sector 76, Noida"
   },
   {
-    "carImg": "../src/assets/cars (2).png",
-    "carName": "Thar Latest Model",
+    "carImg": "https://i.auto-bild.de/ir_img/2/7/0/3/6/4/5/Skoda-bringt-neues-Kompakt-SUV-in-Indien-1200x800-b02ca17680eb03ed.jpg",
+    "carName": "Skoda",
     "Rent": "₹650",
     "location": "Sector 56, Noida"
   },
   {
-    "carImg": "../src/assets/white-sport-sedan.png",
-    "carName": "White Sedan",
+    "carImg": "https://images.news18.com/ibnlive/uploads/2020/08/1597473377_2020-mahindra-thar-4x4-suv.jpg",
+    "carName": "Mahindra Thar",
     "Rent": "₹450",
     "location": "Sector 1, Noida"
   },
   {
-    "carImg": "../src/assets/cars-big/golf6-box.png",
-    "carName": "Golf6",
-    "Rent": "₹400",
-    "location": "Sector 56, Noida"
-  },
-  {
-    "carImg": "../src/assets/Black SUV.png",
-    "carName": "Black SUV",
+    "carImg": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https:%2F%2Fcdni.autocarindia.com%2FExtraImages%2F20200818100745_2020-Mahindra-Thar-grey-river-studio.jpg&h=795&w=1200&c=0",
+    "carName": "Mahindra Thar grey",
     "Rent": "₹360",
     "location": "Sector 72, Noida"
   },
   {
-    "carImg": "../src/assets/jeep.png",
-    "carName": "White SUV",
-    "Rent": "₹400",
-    "location": "Sector 56, Noida"
-  },
-  {
-    "carImg": "../src/assets/cars (3).png",
-    "carName": "BMW",
+    "carImg": "https://th.bing.com/th/id/OIP.xd8JYnskh3-A7not-ohqKgHaFM?rs=1&pid=ImgDetMain",
+    "carName": "Volvo XC40",
     "Rent": "₹650",
     "location": "Sector 1, Noida"
   }
